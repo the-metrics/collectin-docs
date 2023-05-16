@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Collectin Docs",
   description: "Collectin",
   outDir: "./docs",
-  base: "/collectin-docs",
+  base: "/docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
