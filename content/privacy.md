@@ -5,7 +5,7 @@ outline: deep
 - 应用名称：Collectin
 - 开发者：The Metrics Lab
 
-Collectin（collectin.net）由上海物集云合网络有限公司 The Metrics Lab 负责开发与运营。
+Collectin（包括 collectin.net 网站和浏览器插件）由上海物集云合网络有限公司 The Metrics Lab 负责开发与运营。
 
 Collectin 尊重并保护所有使用服务用户的个人隐私权。除本隐私权政策另有规定外，在未征得您事先许可的情况下，Collectin 不会将这些信息对外披露或向第三方提供。Collectin 会不时更新本隐私权政策。 您在注册、登录和使用 Collectin 服务之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于 Collectin 服务使用协议不可分割的一部分。
 
