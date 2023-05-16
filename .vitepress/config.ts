@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Collectin Docs",
   description: "Collectin",
-  outDir: "./dist",
+  outDir: "./docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

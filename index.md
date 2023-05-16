@@ -9,15 +9,15 @@ hero:
   actions:
     - theme: brand
       text: 隐私政策
-      link: /docs/privacy
+      link: /src/privacy
     # - theme: alt
     #   text: 隐私政策
-    #   link: /docs/privacy
+    #   link: /src/privacy
 
 features:
   # - title: 隐私政策
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #   link: /docs/privacy
+  #   link: /src/privacy
 
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
