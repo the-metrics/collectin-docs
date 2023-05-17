@@ -21,10 +21,16 @@ export default defineConfig({
       {
         text: "使用指南",
         items: [
-          { text: "入门指南", link: "/docs/guide" },
+          { text: "快速入门", link: "/docs/start" },
+          { text: "如何使用", link: "/docs/guide" },
           { text: "插件安装", link: "/docs/extension" },
         ],
       },
+      {
+        text: "更新记录",
+        items: [{ text: "Changelog", link: "/docs/changelog" }],
+      },
+
       {
         text: "协议条款",
         items: [
