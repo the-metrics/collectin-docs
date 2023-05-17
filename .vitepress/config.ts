@@ -6,8 +6,7 @@ export default defineConfig({
   title: "Collectin Docs",
   description:
     "免费不限量的 Collectin 服务可以帮助你更好的收集和管理书签和页签，只需点击一下便可以帮你快速保存感兴趣的网页，不管是文章、图片、视频、社交媒体、应用等都能一键保存到 Collectin 服务中。",
-  outDir: "./docs",
-  // base: "/docs",
+  base: "/collectin-docs/",
   themeConfig: {
     logo: "/icon.png",
     siteTitle: "Collectin Docs",
@@ -15,23 +14,22 @@ export default defineConfig({
     nav: [
       { text: "官网", link: "https://www.collectin.net" },
       { text: "文档首页", link: "/" },
-      { text: "使用指南", link: "/content/guide" },
+      { text: "使用指南", link: "/docs/guide" },
     ],
 
     sidebar: [
       {
         text: "使用指南",
         items: [
-          { text: "入门指南", link: "/content/guide" },
-          { text: "插件安装", link: "/content/extension" },
-          // { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: "入门指南", link: "/docs/guide" },
+          { text: "插件安装", link: "/docs/extension" },
         ],
       },
       {
         text: "协议条款",
         items: [
-          { text: "用户协议", link: "/content/user-agreement" },
-          { text: "隐私政策", link: "/content/privacy" },
+          { text: "用户协议", link: "/docs/user-agreement" },
+          { text: "隐私政策", link: "/docs/privacy" },
         ],
       },
     ],
@@ -42,7 +40,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/the-metrics/docs" },
+      { icon: "github", link: "https://github.com/the-metrics/collectin-docs" },
     ],
   },
 });
