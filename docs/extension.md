@@ -1,15 +1,13 @@
 <script setup>
 import ImageLink from '../components/ImageLink.vue'
+import chromeImg from "../assets/extension/logo-chrome.png"
+import edgeImg from  "../assets/extension/logo-edge.png"
 
 const extensionLinks = {
   chrome: "https://cdn.collectin.net/extensions/collectin-chrome-extension.crx",
   edge: "https://cdn.collectin.net/extensions/collectin-edge-extension.zip"
 }
 
-const extensionImgs = {
-  chrome: "../assets/logo-chrome.png",
-  edge: "../assets/logo-edge.png"
-}
 
 </script>
 
@@ -31,23 +29,23 @@ const extensionImgs = {
 
 1. 点击下面的链接 🔗，将安装包下载到本地。
 
-<ImageLink :link="extensionLinks.chrome" :img="extensionImgs.chrome" text="Chrome 安装包" size=60 />
+<ImageLink :link="extensionLinks.chrome" :img="chromeImg" text="Chrome 安装包" size=60 />
 
 2. 在 Chrome 浏览器的 Extensions 页面中开启 Developer Mode
 
 - 访问地址 🔗 <a href="chrome://extensions" >chrome://extensions</a> （复制链接打开）
 
-<img src="../assets/developer-mode.png" />
+<img src="../assets/extension/developer-mode.png" />
 
 3. 将下载的安装包拖入浏览器中
 
-<img src="../assets/drop-to-install.png" />
+<img src="../assets/extension/drop-to-install.png" />
 
 确认安装之后，在 extensions 列表中存在 Collectin 的插件即表示安装成功 👏
 
 点击左下角开启按钮，现在可以打开一个新的标签页试试～
 
-<img src="../assets/add-success.png" />
+<img src="../assets/extension/add-success.png" />
 
 ## Edge
 
@@ -62,21 +60,21 @@ const extensionImgs = {
 
 1. 点击下面的链接 🔗，将安装包下载到本地。
 
-<ImageLink :link="extensionLinks.edge" :img="extensionImgs.edge" text="Edge 安装包" size=60 />
+<ImageLink :link="extensionLinks.edge" :img="edgeImg" text="Edge 安装包" size=60 />
 
 2. 在 Edge 浏览器的 Extensions 页面中开启 Developer Mode
 
 - 访问地址 🔗 <a href="edge://extensions" >edge://extensions</a> （复制链接打开）
 
-<img src="../assets/edge-developer-mode.png" />
+<img src="../assets/extension/edge-developer-mode.png" />
 
 3. 将下载的安装包拖入浏览器中
 
-<img src="../assets/edge-drop-to-install.png" />
+<img src="../assets/extension/edge-drop-to-install.png" />
 
 确认安装之后，开启使用即可 👏
 
-<img src="../assets/edge-start-use.png" />
+<img src="../assets/extension/edge-start-use.png" />
 
 ## Firefox
 
