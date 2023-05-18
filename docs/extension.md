@@ -5,7 +5,7 @@ import edgeImg from  "../assets/extension/logo-edge.png"
 
 const extensionLinks = {
   chrome: "https://cdn.collectin.net/extensions/collectin-chrome-extension.crx",
-  edge: "https://cdn.collectin.net/extensions/collectin-edge-extension.zip"
+  edge: "https://cdn.collectin.net/extensions/collectin-edge-extension.crx"
 }
 
 
