@@ -30,6 +30,7 @@ export default defineConfig({
         text: "关于",
         items: [
           { text: "关于我们", link: "/docs/about-us" },
+          { text: "加入我们", link: "/docs/join-us" },
           { text: "反馈与建议", link: "/docs/feedback" },
         ],
       },
