@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Collect in
-  text: "帮助文档"
-  tagline: Collect bookmarks and manage tabs better.
+  text: 文档中心
+  tagline: Help you collect bookmarks better.
   actions:
     - theme: brand
       text: 快速入门
