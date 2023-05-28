@@ -4,10 +4,9 @@ import chromeImg from "../assets/extension/logo-chrome.png"
 import edgeImg from  "../assets/extension/logo-edge.png"
 
 const extensionLinks = {
-  chrome: "https://cdn.collectin.net/extensions/collectin-chrome-extension.crx",
-  edge: "https://cdn.collectin.net/extensions/collectin-edge-extension.crx"
+  chrome: "https://file.collectin.net/extensions/collectin-chrome-extension.crx",
+  edge: "https://file.collectin.net/extensions/collectin-edge-extension.crx"
 }
-
 
 </script>
 
