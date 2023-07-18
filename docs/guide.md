@@ -18,7 +18,7 @@
 
 右侧中的列表可以直接添加书签到当前的收藏集下，便于操作。
 
-<img src="../assets/guide/layout-overview.png" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/layout-overview.png" />
 
 ## 功能展示
 
@@ -28,7 +28,7 @@
 
 创建/编辑操作都只需要按 Enter 键确认，按 ESC 键取消。
 
-<img src="../assets/guide/collection.gif" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/collection.gif" />
 
 ### 2. 书签列表
 
@@ -36,7 +36,7 @@
 
 采用同样地交互行为，右键点击书签可以进行展开所有操作。
 
-<img src="../assets/guide/bookmark.gif" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/bookmark.gif" />
 
 ### 3. 扩展区
 
@@ -48,7 +48,7 @@
 
 在页签列表中，可以对正在浏览的页签进行操作，诸如高亮、刷新、关闭、添加为书签，还可以对其进行分组管理，未来我们会持续强化这部分的功能，如更自然的页签管理、更便捷的书签创建方式，通过与浏览器页签更深的融合，优化产品体验。
 
-<img src="../assets/guide/tab.gif" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/tab.gif" />
 
 ### 4. 阅览室
 
@@ -56,7 +56,7 @@
 
 在阅览室中，可以分别查看不同阅读状态下的书签列表。
 
-<img src="../assets/guide/read.gif" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/read.gif" />
 
 ### 4. 设置
 
@@ -64,4 +64,4 @@
 
 比如主题模式的切换支持 浅色、深色、自动模式（即跟随系统）。
 
-<img src="../assets/guide/theme.gif" />
+<img src="https://file-1305078911.cos.ap-shanghai.myqcloud.com/images/theme.gif" />
