@@ -5,12 +5,10 @@ layout: home
 hero:
   name: Collect in
   text: 文档中心
-  tagline: Help you collect bookmarks better.
+  tagline: 更好用、更轻量的书签收藏集，编织自己的个人知识网
+  image: /assets/logo/logo-name.svg
   actions:
     - theme: brand
-      text: 快速入门
-      link: /docs/start
-    - theme: alt
       text: 更新记录
       link: /docs/changelog
 
@@ -19,11 +17,11 @@ features:
     details: 快速玩转 Collectin，搞定书签收集
     link: /docs/guide
 
-  - title: 关于我们
-    details: 了解我们的团队
-    link: /docs/about-us
+  - title: 插件下载
+    details: 用插件提供的页签管理能力，更自由的管理书签
+    link: /docs/extension
 
-  - title: 用户协议与隐私政策
+  - title: 协议条款
     details: 本产品在持续开发中，用户协议与隐私政策可能也会及时更新，请用户知悉
     link: /docs/user-agreement
 ---

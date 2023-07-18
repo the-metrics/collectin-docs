@@ -8,20 +8,20 @@ export default defineConfig({
     "免费不限量的 Collectin 服务可以帮助你更好的收集和管理书签和页签，只需点击一下便可以帮你快速保存感兴趣的网页，不管是文章、图片、视频、社交媒体、应用等都能一键保存到 Collectin 服务中。",
   // base: "/collectin-docs/",
   themeConfig: {
-    logo: "/icon.png",
+    logo: "/logo.svg",
     siteTitle: "Collectin Docs",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "官网", link: "https://www.collectin.net" },
+      { text: "Collectin 官网", link: "https://www.collectin.net" },
       { text: "文档首页", link: "/" },
-      { text: "使用指南", link: "/docs/guide" },
+      // { text: "使用指南", link: "/docs/guide" },
     ],
 
     sidebar: [
       {
         text: "使用指南",
         items: [
-          { text: "快速入门", link: "/docs/start" },
+          // { text: "快速入门", link: "/docs/start" },
           { text: "如何使用", link: "/docs/guide" },
           { text: "插件安装", link: "/docs/extension" },
         ],

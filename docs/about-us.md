@@ -4,7 +4,7 @@ import Lab from "../components/Lab.vue"
 
 # 关于我们
 
-## 是谁？
+## 我们是谁？
 
 We are in <Lab />
 
