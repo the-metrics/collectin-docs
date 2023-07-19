@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.2.8 <Badge type="tip" text="new" />
+## 0.2.9 <Badge type="tip" text="new" />
+
+- bugfix: 修复未选中收藏集时，在创建 collection 后被标为选中
+- bugfix: 新开 tab 时链接显示不正确，样式问题
+
+## 0.2.8
 
 - 优化漫游式引导，添加 GIF 动画说明
 - 更新文档中心，在快速入门中加入 GIF 动画
