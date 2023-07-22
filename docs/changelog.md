@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1 <Badge type="tip" text="new" />
+
+- bugfix: 修复创建书签时的排序逻辑
+
 ## 0.3.0 <Badge type="tip" text="new" />
 
 - 页签搜索功能
