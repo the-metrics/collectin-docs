@@ -1,6 +1,12 @@
 # Changelog
 
-## 0.2.9 <Badge type="tip" text="new" />
+## 0.3.0 <Badge type="tip" text="new" />
+
+- 页签搜索功能
+- 无法访问站点 icon 时，切换为本站 icon 兜底
+- 更新域名解析逻辑
+
+## 0.2.9
 
 - bugfix: 修复未选中收藏集时，在创建 collection 后被标为选中
 - bugfix: 新开 tab 时链接显示不正确，样式问题
