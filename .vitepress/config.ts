@@ -52,8 +52,8 @@ export default defineConfig({
       copyright: "Copyright © 2023-present The Metrics Lab",
     },
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/the-metrics/collectin-docs" },
-    ],
+    // socialLinks: [
+    //   { icon: "github", link: "https://github.com/the-metrics/collectin-docs" },
+    // ],
   },
 });
