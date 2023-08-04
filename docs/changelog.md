@@ -1,6 +1,15 @@
 # Changelog
 
-## 0.3.2 <Badge type="tip" text="new" />
+## 0.4.0 <Badge type="tip" text="new" />
+
+- 实现收藏集列表的拖动排序 <Badge type="info" text="feature" />
+- 实现点击书签的阅读状态、喜欢、标签信息等直接进行过滤 <Badge type="info" text="feature" />
+- 调整标签的展示区域，优化页面结构
+- 优化页面最小宽度
+- 优化图片大小
+- 优化 modal
+
+## 0.3.2
 
 - 书签支持移动收藏集 <Badge type="info" text="feature" />
 - 优化 UI 样式
