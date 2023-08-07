@@ -1,6 +1,12 @@
 # Changelog
 
-## 0.4.0 <Badge type="danger" text="new" />
+## 0.4.1 <Badge type="danger" text="new" />
+
+- 优化 collection list UI
+- 404 等页面支持深色主题
+- bugfix: 修复 collection 相关 modal 引发的问题
+
+## 0.4.0
 
 - 实现收藏集列表的拖动排序 <Badge type="tip" text="feature" />
 - 实现点击书签的阅读状态、喜欢、标签信息等直接进行过滤 <Badge type="tip" text="feature" />
