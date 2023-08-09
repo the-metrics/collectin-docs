@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.4.1 <Badge type="danger" text="new" />
+## 0.4.2 <Badge type="danger" text="new" />
+
+- 实现书签列表支持直接拖动排序 <Badge type="tip" text="feature" />
+- bugfix: 修复书签操作弹框问题
+
+## 0.4.1
 
 - 优化 collection list UI
 - 404 等页面支持深色主题
