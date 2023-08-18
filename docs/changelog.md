@@ -1,6 +1,22 @@
 # Changelog
 
-## 0.4.2 <Badge type="danger" text="new" />
+> 下一个版本预告
+>
+> - 拖动页签创建为书签
+> - 可以随意拖动更方便地管理页签
+
+## 0.4.4 <Badge type="danger" text="new" />
+
+- 实现书签拖动移入新收藏集 <Badge type="tip" text="feature" />
+- 实现标签拖动移入书签后更新书签列表 <Badge type="tip" text="feature" />
+- 统一 message 提示
+- 元素的拖动位置限制在窗口内
+
+## 0.4.3
+
+- 实现 Tag 的拖动排序 <Badge type="tip" text="feature" />
+
+## 0.4.2
 
 - 实现书签列表支持直接拖动排序 <Badge type="tip" text="feature" />
 - bugfix: 修复书签操作弹框问题
