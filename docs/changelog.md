@@ -2,10 +2,14 @@
 
 > 下一个版本预告
 >
-> - 拖动页签创建为书签
 > - 可以随意拖动更方便地管理页签
 
-## 0.4.4 <Badge type="danger" text="new" />
+## 0.4.5 <Badge type="danger" text="new" />
+
+- 实现拖动页签创建为书签 <Badge type="tip" text="feature" />
+- 优化页签样式
+
+## 0.4.4
 
 - 实现书签拖动移入新收藏集 <Badge type="tip" text="feature" />
 - 实现标签拖动移入书签后更新书签列表 <Badge type="tip" text="feature" />
