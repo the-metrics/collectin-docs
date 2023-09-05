@@ -2,9 +2,16 @@
 
 > 下一个版本预告
 >
-> - 可以随意拖动更方便地管理页签
+> - 更强的阅览室功能
 
-## 0.4.5 <Badge type="danger" text="new" />
+## 0.4.6 <Badge type="danger" text="new" />
+
+- 回收站支持拖拽：直接将书签拖入回收站；也可以从回收站中拖入书签列表 <Badge type="tip" text="feature" />
+- 已打开的页签搜索结果支持拖拽 <Badge type="tip" text="feature" />
+- 最近更新功能支持提醒 <Badge type="tip" text="feature" />
+- 统一右侧区域的按钮样式
+
+## 0.4.5
 
 - 实现拖动页签创建为书签 <Badge type="tip" text="feature" />
 - 优化页签样式
