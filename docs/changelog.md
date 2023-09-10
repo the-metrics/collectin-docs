@@ -4,7 +4,11 @@
 >
 > - 更强的阅览室功能
 
-## 0.4.6 <Badge type="danger" text="new" />
+## 0.5.0 <Badge type="danger" text="new" />
+
+- 多页面之间设置同步-支持主题、语言
+
+## 0.4.6
 
 - 回收站支持拖拽：直接将书签拖入回收站；也可以从回收站中拖入书签列表 <Badge type="tip" text="feature" />
 - 已打开的页签搜索结果支持拖拽 <Badge type="tip" text="feature" />
