@@ -1,9 +1,5 @@
 # Changelog
 
-> 下一个版本预告
->
-> - 更强的阅览室功能
-
 ## 0.6.0 <Badge type="danger" text="new" />
 
 - 阅览室支持查看最近阅读 <Badge type="tip" text="feature" />
