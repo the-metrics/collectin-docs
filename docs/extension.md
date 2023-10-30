@@ -88,6 +88,10 @@ const extensionLinks = {
 
 <img src="../assets/extension/vivaldi.png" />
 
+## 国产浏览器
+
+大部分国产浏览器如 QQ 浏览器、360 浏览器、搜狗浏览器、遨游浏览器等基本都是基于或兼容 Chrome 浏览器内核，所以可以直接使用 Chrome 浏览器的安装包，直接安装即可，如有遇到问题可随时反馈给我们。
+
 ## 其他浏览器
 
 firefox 与 safari 的扩展中提供的接口有很大的差异导致部分功能不可用，需要一定时间开发，敬请期待
